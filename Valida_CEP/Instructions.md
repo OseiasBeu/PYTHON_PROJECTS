@@ -1,0 +1,1 @@
+This application extracts addresses and ceps in a database and checks in an API and validates that the address and zip code are correct. For this, the application uses a conditional that checks the degree of similarity of addresses and zip codes
